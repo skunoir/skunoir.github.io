@@ -1,0 +1,23 @@
+
+.titolo{
+    font-size: 100px;
+    
+    font-family: 'Bebas Neue', cursive;
+}
+
+.immagine{
+   width: 500px;
+   height: 300px;
+   
+  
+}
+
+.immagine2{
+    width: 500px;
+    height: 300px;
+   
+}
+
+.textbox{
+    margin-right: 100%;
+}
